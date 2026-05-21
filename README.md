@@ -36,4 +36,4 @@ PawVision CNN is a deep learning image classification system capable of identify
 
 ## 👩‍💻 Author
 
-Mithra Vinda
+Mithravinda
